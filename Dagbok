@@ -3,3 +3,7 @@
 |                              HT-2025                                 |
 |----------------------------------------------------------------------|
 
+2025-09-05
+Hade problem med ssh connection för denna repo:n återgärdad samma dag
+problemet kom från merge conflict mellan filer med samma namn men olika directories antar jag vilket gjorde att jag inte kunde genomföra en push
+
