@@ -8,13 +8,4 @@ Hade problem med ssh connection för denna repo:n återgärdad samma dag
 problemet kom från merge conflict mellan filer med samma namn men olika directories antar jag vilket gjorde att jag inte kunde genomföra en push
 
 2025-09-09 Pony Voter Arc
-Jesus, aldrig mer igen vill jag arbeta med en så dåligt formulärade services/containers
-jag anser min lösning fortfarande vara den icke optimala sättet att utföra jobbet men fick den att fungera till slut
-
-jag började med att koppla bort den gamla stats presenter som gjorde direkta queries till databasen
-efter det började jag att bygga upp den enligt parametrarna som vi blev frågade efter
-
-tre stycken asyncade funktioner som utför fetches från designerade portar
-
-Listvotes utför en fetch på votecounters container på request av indexen
-och för in datan inom variablen votes som senare omvandlas til
+Jesus aldrig igen, Ponyvoter har varit det mest frustrerande samt lärorika momentet från alla kurser samtidigt.
